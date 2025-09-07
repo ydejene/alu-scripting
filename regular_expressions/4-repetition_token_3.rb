@@ -1,6 +1,6 @@
 #!/usr/bin/env ruby
 
-regex = /hbt{1,}n/
+regex = /hbt*n/
 
 ARGV.each do |arg|
   if arg.match?(regex)
