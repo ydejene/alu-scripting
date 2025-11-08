@@ -1,5 +1,6 @@
 #!/usr/bin/python3
-"""Get number of subscribers for a subreddit. If invalid return 0."""
+"""Get number of subscribers for a subreddit."""
+
 import requests
 
 
