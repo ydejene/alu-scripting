@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 """Print top 10 hot posts of a subreddit."""
+
 import requests
 
 
